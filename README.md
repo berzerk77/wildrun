@@ -12,7 +12,7 @@ This privacy notice applies to all information collected through our Services (w
 
 Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
 
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 1. WHAT INFORMATION DO WE COLLECT?
 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
